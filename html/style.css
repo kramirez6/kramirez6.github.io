@@ -1,0 +1,45 @@
+
+p {color:white; }
+
+p1{color: white;
+background-color: black}
+p2{color: green;
+background-color: black;}
+
+ul li{
+  background-color: yellow;
+
+}
+
+body{
+
+  background-image: url("http://www.pagecovers.com/covers/nhl_hockey_players/kane_keith_sharp_toews_seabrook_chicago_blackhawks.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+
+}
+
+
+
+h1{text-align: center;
+background-color: red;}
+
+h2{
+  background-color: blue;
+}
+h3{
+  background-color: yellow;
+}
+
+
+#wordlife{
+ background-color: green;
+
+}
+
+
+#wordlife{font-size: 15px; }
+#wordlife{background-color: green;}
+
+body{font-size: 16px;}
